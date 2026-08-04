@@ -33,5 +33,5 @@ These are early, local projects. The two agent projects' tests cover bundled
 fixtures and one offline adapter. They do not show how live models perform in
 production or prove compatibility with other agents.
 
-[LinkedIn](https://www.linkedin.com/in/aalkabra)
+[LinkedIn](https://www.linkedin.com/in/aalkabra) AND 
 X: @ahmadalkabra
