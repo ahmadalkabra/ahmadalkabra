@@ -1,37 +1,23 @@
 # Ahmad Alkabra
 
-I'm Ahmad. This page collects a few public projects I've been working on around
-AI agents and evaluation.
+Product leader with 15+ years building and scaling consumer products, developer platforms and emerging-technology ventures. I take products from concept to market, setting the vision and strategy and leading cross-functional teams through execution, from consumer apps to enterprise platforms to blockchain infrastructure.
 
-## Projects
+Now I’m building AI products hands-on: Gazdura, an airline-loyalty advisory product in early testing, a practical agent workflow, and public reference projects for agent permissions, evaluation and evidence-driven delivery. The repositories below show selected work.
 
-- **[Agent Evals Lab](https://github.com/ahmadalkabra/agent-evals-lab)** checks
-  an agent command from the outside and saves a report that can be checked
-  again later.
-- **[Verified Agent Reference](https://github.com/ahmadalkabra/verified-agent-reference)**
-  is a small offline example with a narrow permission boundary.
-- **[Maestro Spine](https://github.com/ahmadalkabra/maestro-spine)** contains
-  rules and templates for reviewing AI-assisted work before it ships.
+## Start here
 
-## Try them
+- **[Gazdura](gazdura.md)**: the product I’m building to explain airline points, status and perks inside Claude and ChatGPT, starting with partial Alaska Atmos Rewards coverage. The case study covers my product choices, current limits and what I’m learning.
+- **[Maestro Setup](https://github.com/ahmadalkabra/maestro-setup)**: how I organize AI agents, shared context and review across projects and everyday tasks.
+- **[atlas-dashboard](https://github.com/ahmadalkabra/atlas-dashboard)**: an independent analytics dashboard I designed and built for Rootstock bridge activity across Flyover, PowPeg and swap routes, with Telegram alerts and a daily summary (May 2026 snapshot).
 
-1. Run the [real-project starter](https://github.com/ahmadalkabra/agent-evals-lab#real-project-starter)
-   against a selected local Git repository.
-2. Reproduce the [cross-repository proof](https://github.com/ahmadalkabra/agent-evals-lab#cross-repo-proof)
-   with the evaluator and bounded reference agent.
-3. Run the [Maestro quick proof](https://github.com/ahmadalkabra/maestro-spine#quick-proof)
-   to inspect the operating controls.
+## Earlier experiments
 
-Versioned releases:
-[Agent Evals Lab v0.1.1](https://github.com/ahmadalkabra/agent-evals-lab/releases/tag/v0.1.1)
-and
-[Verified Agent Reference v0.1.0](https://github.com/ahmadalkabra/verified-agent-reference/releases/tag/v0.1.0).
+Early, local projects. Agent Evals Lab and Verified Agent Reference show a deterministic agent contract and an outside evaluator using bundled fixtures, not live-model or production use.
 
-## Current limits
+- **[Agent Evals Lab](https://github.com/ahmadalkabra/agent-evals-lab)** (v0.1.1): checks an agent command from the outside and saves a report you can verify later.
+- **[Verified Agent Reference](https://github.com/ahmadalkabra/verified-agent-reference)** (v0.1.0): a small offline agent with a narrow permission boundary.
+- **[Maestro Spine](https://github.com/ahmadalkabra/maestro-spine)** (earlier work): rules, templates and scripts for AI-assisted work, adapted from Garry Tan's MIT-licensed gstack and gbrain.
 
-These are early, local projects. The two agent projects' tests cover bundled
-fixtures and one offline adapter. They do not show how live models perform in
-production or prove compatibility with other agents.
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/aalkabra) AND 
-X: @ahmadalkabra
+[LinkedIn](https://www.linkedin.com/in/aalkabra) · X: [@ahmadalkabra](https://x.com/ahmadalkabra)
