@@ -7,7 +7,7 @@ Now I’m building AI products hands-on: Gazdura, an airline-loyalty advisory pr
 ## Start here
 
 - **[Gazdura](gazdura.md)**: the product I’m building to explain airline points, status and perks inside Claude and ChatGPT, starting with partial Alaska Atmos Rewards coverage. The case study covers my product choices, current limits and what I’m learning.
-- **[Maestro Setup](https://github.com/ahmadalkabra/maestro-setup)**: how I organize AI agents, shared context and review across projects and everyday tasks.
+- **[Maestro Setup](https://github.com/ahmadalkabra/maestro-setup)**: how to organize AI agents, shared context and review across projects and everyday tasks.
 - **[atlas-dashboard](https://github.com/ahmadalkabra/atlas-dashboard)**: an independent analytics dashboard I designed and built for Rootstock bridge activity across Flyover, PowPeg and swap routes, with Telegram alerts and a daily summary (May 2026 snapshot).
 
 ## Earlier experiments
@@ -21,3 +21,4 @@ Early, local projects. Agent Evals Lab and Verified Agent Reference show a deter
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/aalkabra) · X: [@ahmadalkabra](https://x.com/ahmadalkabra)
+
